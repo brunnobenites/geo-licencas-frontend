@@ -4,7 +4,7 @@ function StreamlitDashboard() {
   return (
     <div style={{ width: "100%", height: "100vh" }}>
       <iframe
-        src="http://localhost:8501"
+        src="https://geo-licencas-streamlitstreamlit-run.onrender.com"
         title="Streamlit Dashboard"
         style={{
           width: "100%",
